@@ -4,6 +4,8 @@
 * [Vorwort](vorwort.md)
 * [Über Open Educational Resources](ueber-open-educational-resources.md)
 * [Bearbeiter\*innenverzeichnis](bearbeiter-innenverzeichnis.md)
+* [Abkürzungsverzeichnis](abkuerzungsverzeichnis.md)
+* [Literaturhinweise zum Verwaltungsrecht](literaturhinweise-zum-verwaltungsrecht.md)
 * [§ 1 Die Eröffnung der gutachterlichen Prüfung](1-die-eroeffnung-der-gutachterlichen-pruefung.md)
 * [§ 2 Die Anfechtungsklage](2-die-anfechtungsklage.md)
 * [§ 3 Die Verpflichtungsklage](3-die-verpflichtungsklage.md)
