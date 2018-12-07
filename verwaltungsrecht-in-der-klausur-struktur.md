@@ -1,4 +1,4 @@
-# Verwaltungsrecht in der Klausur Struktur
+# Bearbeiter\*innenverzeichnis
 
 **Verwaltungsrecht in der Klausur**
 
