@@ -1,8 +1,6 @@
 Herzlich Willkommen
 ===================
 
-![](media/a0126b0de622200850de6068d695ffba.jpg)
-
 Hier entsteht unter Mitarbeit vieler Wissenschaftlicher Mitarbeiterinnen und
 Mitarbeiter aus ganz Deutschland das erste OER-Lehrbuch zum Verwaltungs- und
 Verwaltungsprozessrecht.
